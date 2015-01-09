@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	text-align: center;
+}
+#wrapper{
+	text-align: left;
+	width: 90%;
+	border: 1px solid black;
+	margin: 4px auto;
+}
+header{
+	border-bottom: 1px solid green;
+}
+section{
+	width: 66%;
+	height: 100%;
+	border-right: 1px solid red;
+	float: left;
+}
+aside{
+	display: inline-block;
+	width: 33%;
+	float: right;
+}
+footer{
+	border-top: 1px solid green;
+	clear: both;
+	text-align: center;
+}
+nav{
+	border-bottom: 1px solid blue;
+}
